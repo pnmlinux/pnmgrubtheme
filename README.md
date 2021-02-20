@@ -1,0 +1,2 @@
+# pnmgrubtheme
+pnm grub theme
